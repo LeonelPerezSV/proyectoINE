@@ -100,7 +100,9 @@ Capturas del proyecto y su visualización del interfaz:
 ## 💡 Autor
 
 **Leonel Antonio Hernández Pérez**   | HP12002
-
+**Franklin Giovanny Avila** | AG22046
+**Joselyn Xiomara Rivera** | RG21098
+**Albert Uziel Hernandez Mendoza** | HM20019
 
 ---
 
