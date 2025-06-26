@@ -110,3 +110,9 @@ if st.button("Comparar Alternativas"):
         file_name="comparacion_depreciacion.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
+
+    st.write("*Elaborado por*")
+    st.write("Leonel Antonio Hernández Pérez HP12002 | "
+             "Franklin Giovanny Avila AG22046 | "
+             "Joselyn Xiomara Rivera RG21098 |"
+             "Albert Uziel Hernandez Mendoza HM20019")
